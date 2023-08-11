@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital@1&display=swap');
+
+body{
+    margin:0px;
+}
+#page1{
+    background-image:url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/groove-bg%5B1%5D.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+    
+}
+.button{
+    background-color: green;
+    font-size: 20px; 
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 500px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    color: white;
+
+
+     
+}
+h1{
+    margin-left: 100px;
+    margin-top: 100px;
+    color: black;
+    text-align: center;
+    font-size: 70px;    
+}
+.heading{
+    padding-top: 20px;
+
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    margin-left: 250px;
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 250px;
+    font-size: 30px;
+    color: black;
+}
+table,tr,th,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+}
+thead{
+    color: white;
+    background-color: green;
+
+}
+tr{
+    height:20px;
+}
+img{
+    width: 75px;
+    height: 75px;
+}
+.numb{
+    width: 20px;
+
+
+}
+.no{
+    right: 500px;
+}
+.number{
+    width: 70px;
+}
+#btn{
+
+    background-color: green;
+    font-size: 17px;
+    width: 190px;
+    height: 40px;
+}
+
+#nm{
+    margin-left: 560px;
+    align-content: center;
+}
+.nom{
+    text-align: center;
+    margin-top: 20px;
+}
+
+tr.hover{
+    color: aqua;
+    
+
+}
+.padd:hover{
+    background-color: rgb(240, 233, 233)
+}
+
+
+
+
+
+
+
+
